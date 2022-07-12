@@ -10,7 +10,9 @@
 
 ```npm start```
 
-Nota: importante compilar antes de executar
+Nota: importante compilar antes de executar, e dentro da carpeta, para iso:
+
+```cd vite-electron-vue-ts project```
 
 ### Testeo
 
